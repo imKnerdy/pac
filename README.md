@@ -1,3 +1,3 @@
-# PAG (Pixel Art Convertor)
+# PAC (Pixel Art Convertor)
 
 Convert your pictures to pixel art

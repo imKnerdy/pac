@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    background: #111;
+    color: #eee;
+    padding: 20px;
+}
+
+
+canvas {
+    width: 640px;
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #444;
+    margin-top: 12px;
+    display: block;
+}
+
+
+label {
+    display: block;
+    margin: 8px 0 2px;
+}
+
+
+button {
+    margin-top: 12px;
+    padding: 8px 14px;
+}
+
+
+#palette {
+display: flex;
+flex-wrap: wrap;
+gap: 6px;
+margin-top: 12px;
+}
+
+
+.sw {
+    width: 64px;
+    font-size: 11px;
+    text-align: center;
+}
+
+
+.sw div {
+    height: 28px;
+    border: 1px solid #555;
+}
